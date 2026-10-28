@@ -4,9 +4,8 @@
     "baseUrl": ".",
     "strict": true,
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"],
+      "@src/*": ["./src/*"]
     }
   },
   "include": [
